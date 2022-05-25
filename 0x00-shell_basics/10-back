@@ -3,3 +3,4 @@ cd ..
 cd ./
 cd ./10-back
 pwd cd ./10-back
+cd .. cd ./10-back
